@@ -14,12 +14,12 @@ function Texte() {
             <br />
             Après une formation en STI2D option SIN, j'ai poursuivi en BUT Informatique à l'IUT d'Arles, et je suis actuellement en 3ème année en alternance à la <span className="purple">Direction générale de l'aviation civile</span> en tant que développeur web.
             <br />
-            Mon objectif est de devenir développeur web ou logiciel, avec une préférence pour le <span className="purple">Back-end</span>. 
+            Mon objectif est de devenir <span className="purple">développeur web</span> ou <span className="purple">logiciel</span>. 
             <br />
             J'ai postulé chez YNOV Campus pour un Master en alternance.
             <br />
             <br />
-            À part le développement, j'aime aussi :
+            En plus du développement, j'adore également :
           </p>
           <ul>
 

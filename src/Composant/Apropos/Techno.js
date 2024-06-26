@@ -35,7 +35,7 @@ function Techno() {
 
         <Col xs={4} md={2} className="tech-icons">
             <SiMysql />
-            <h4>MySQL</h4>
+            <h4>SQL</h4>
         </Col>
 
         <Col xs={4} md={2} className="tech-icons">

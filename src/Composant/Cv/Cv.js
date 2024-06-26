@@ -19,7 +19,7 @@ function CV() {
 
           <Button variant="primary" href={pdf} target="_blank" style={{ maxWidth: "250px" }}>
           <BsDownload />
-            &nbsp;Download CV
+            &nbsp;Télécharger CV
           </Button>
 
         </Row>

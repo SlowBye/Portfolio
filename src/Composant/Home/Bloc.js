@@ -12,7 +12,7 @@ function Main() {
 
             <br/> <br/>
             <h1 style={{ fontSize: "2.6em" }}>
-              <span className="purple"> Présentation Succinte </span> {/* Titre de la section présentation */}
+              <span className="purple"> Présentation Succincte  </span> {/* Titre de la section présentation */}
             </h1>
             {/*1er Paragraphe */}
             <p className="home-about-body">
@@ -24,7 +24,7 @@ function Main() {
               <br />
 
               {/*2ème Paragraphe */}
-                J'ai des connaissances en programmation dans quelques langages <b className="purple"> (C++, Javascript, Java...) </b> {/* Compétences en programmation */}
+                J'ai des connaissances en programmation dans quelques langages <b className="purple"> (C++, JavaScript, Java...) </b> {/* Compétences en programmation */}
               <br />
                 J'ai des compétences en développement web avec quelques frameworks et bibliothèques <b className="purple"> (React, Angular, Material UI, Express...)</b> {/* Compétences en développement web */}
               <br />

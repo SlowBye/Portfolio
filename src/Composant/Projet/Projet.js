@@ -7,11 +7,11 @@ import img3 from "../../Items/Projet/Image3.png";
 import img4 from "../../Items/Projet/Image4.png";
 import img5 from "../../Items/Projet/Image6.png";
 
-const description =["Premier projet en informatique, il s'agit de faire un agenda pour gérer des événements sur console en C++",
-                    "Projet de 3ème année de mathématiques, il s'agit de faire un programme en Python qui permet de faire un Kmean et un Otsu (des algorithmes) sur une image pour la segmenter.",
-                    "Projet de SAE de 2ème année, il s'agit de faire un affichage d'emploi du temps des étudiants de l'IUT d'Aix-Marseille site Arles pour remplacer la solution actuelle qui ne fonctionne pas sur TV", 
-                    "Projet de 3ème année, il s'agit de faire un jeu de puissance 4 en JavaScript ReactJS avec toutes les fonctionnalités du jeu classique et quelques nouvelles.",
-                    "API qui pourrait permettre au service du Temps réel d’avoir des statistiques et tri de données sur toutes leurs activités depuis le lancement de MADA ou sur une certaine année."]
+const description =["Premier projet en informatique, l'objectif était de faire un agenda pour gérer des événements sur console en C++.",
+                    "Projet de 3ème année, l'objectif était faire un programme en Python qui permet de faire un Kmean et un Otsu (des algorithmes) sur une image pour la segmenter.",
+                    "SAE de 2ème année, l'objectif était de faire un affichage d'emploi du temps des étudiants de l'IUT pour remplacer la solution actuelle qui ne fonctionne pas sur les TV.", 
+                    "Projet de 3ème année, l'objectif était de faire un de puissance 4 en JavaScript ReactJS avec toutes les règles du jeu classique et quelques nouvelles.",
+                    "API qui permet au service du Temps réel d’avoir des statistiques et tri de données sur toutes leurs activités de MADA ou sur une certaine année."]
 
 const titre = [ "Agenda sur console",
                 "Kmean & Otsu",
@@ -25,6 +25,12 @@ const lien = [  0,
                 "https://github.com/SlowBye/Puissance_4",
                 "https://github.com/SlowBye/SAE"]
 
+const lien2 = [0,
+              0,
+              0,
+              "https://slowbye.github.io/Puissance_4/",
+              0]
+
 const img = [img1, img2, img3, img4, img5 ]
 
 function Projet() {
@@ -33,7 +39,7 @@ function Projet() {
     for(let i = 0; i<titre.length;i++){
         tab.push(
             <Col md={4} className="project-card">
-                <Projetdev img={img[i]} titre={titre[i]} description={description[i]} lien= {lien[i]}/>
+                <Projetdev img={img[i]} titre={titre[i]} description={description[i]} lien= {lien[i]} lien2={lien2[i]} />
           </Col>
         )
     }
