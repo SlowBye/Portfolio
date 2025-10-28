@@ -8,7 +8,7 @@ function Texte() {
       <Card.Body>
         <blockquote className="blockquote mb-0">
         <p style={{ textAlign: "justify" }}>
-            Salut, je suis <span className="purple">David Morais Pereira</span> 22 ans.
+            Salut, je suis <span className="purple">David Morais Pereira</span> 23 ans.
             <br />
             J'ai débuté la programmation au lycée <span className="purple">Louis Pasquet</span> à Arles, en C++ et HTML/CSS. 
             <br />
