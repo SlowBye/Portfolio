@@ -1,6 +1,6 @@
 import React from "react";
 import { Col, Row } from "react-bootstrap";
-import { SiVisualstudiocode, SiPostman, SiAmazonaws, SiDocker, SiFilezilla, SiGitlab,SiOvh  } from "react-icons/si";
+import { SiVisualstudiocode, SiPostman, SiAmazonaws, SiDocker, SiFilezilla, SiGitlab, SiOvh, SiGit, SiPortainer  } from "react-icons/si";
 
 function Outils() {
   return (
@@ -22,8 +22,8 @@ function Outils() {
         </Col>
 
         <Col xs={4} md={2} className="tech-icons">
-            <SiDocker />
-            <h4>Docker</h4>
+            <SiOvh />
+            <h4>OVH</h4>
         </Col>
 
         <Col xs={4} md={2} className="tech-icons">
@@ -37,8 +37,18 @@ function Outils() {
         </Col>
 
         <Col xs={4} md={2} className="tech-icons">
-            <SiOvh />
-            <h4>OVH</h4>
+            <SiGit />
+            <h4>Git</h4>
+        </Col>
+
+        <Col xs={4} md={2} className="tech-icons">
+            <SiDocker />
+            <h4>Docker</h4>
+        </Col>
+
+        <Col xs={4} md={2} className="tech-icons">
+            <SiPortainer />
+            <h4>Portainer</h4>
         </Col>
 
     </Row>

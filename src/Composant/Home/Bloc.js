@@ -17,14 +17,14 @@ function Main() {
             {/*1er Paragraphe */}
             <p className="home-about-body">
                 Actuellement alternant chez la <b className="purple">Direction générale de l'aviation civile </b> en tant que développeur web,
-                je suis étudiant de 3ème année en informatique à l'IUT d'Arles.
+                je suis étudiant de 5ème année en informatique à Ynov.
               <br />
                 Mes intérêts dans le domaine se portent sur le <b className="purple">développement web</b> et dans la <b className="purple">création de logiciels</b>.
               <br />
               <br />
 
               {/*2ème Paragraphe */}
-                J'ai des connaissances en programmation dans quelques langages <b className="purple"> (C++, JavaScript, Java...) </b> {/* Compétences en programmation */}
+                J'ai des connaissances en programmation dans quelques langages <b className="purple"> (C++, JavaScript, Java, PHP...) </b> {/* Compétences en programmation */}
               <br />
                 J'ai des compétences en développement web avec quelques frameworks et bibliothèques <b className="purple"> (React, Angular, Material UI, Express...)</b> {/* Compétences en développement web */}
               <br />

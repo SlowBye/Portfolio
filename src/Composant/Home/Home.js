@@ -21,7 +21,7 @@ function Home() {
                 Je suis
                 <strong className="main-name"> David Morais Pereira</strong>.
                 <br />
-                Étudiant en informatique.
+                Étudiant en développement web.
               </h1>
 
             </Col>

@@ -12,7 +12,7 @@ function Texte() {
             <br />
             J'ai débuté la programmation au lycée <span className="purple">Louis Pasquet</span> à Arles, en C++ et HTML/CSS. 
             <br />
-            Après une formation en STI2D option SIN, j'ai poursuivi en BUT Informatique à l'IUT d'Arles, et je suis actuellement en 3ème année en alternance à la <span className="purple">Direction générale de l'aviation civile</span> en tant que développeur web.
+            Après une formation en STI2D option SIN, j'ai poursuivi en BUT Informatique à l'IUT d'Arles, et je suis actuellement en 5ème année en alternance à la <span className="purple">Direction générale de l'aviation civile</span> en tant que développeur web.
             <br />
             Mon objectif est de devenir <span className="purple">développeur web</span> ou <span className="purple">logiciel</span>. 
             <br />
@@ -30,6 +30,14 @@ function Texte() {
             <li className="about-activity">
               <ImPointRight /> Lecture (Manga, BD, Light novel, Comics etc...)
             </li>
+
+            <li className="about-activity">
+              <ImPointRight /> Pêche
+            </li>
+
+            {/* <li className="about-activity">
+              <ImPointRight /> Cuisine
+            </li> */}
 
           </ul>
         </blockquote>
