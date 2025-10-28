@@ -13,7 +13,7 @@ const description =["Premier projet en informatique, l'objectif était de faire 
                     "SAE de 2ème année, l'objectif était de faire un affichage d'emploi du temps des étudiants de l'IUT pour remplacer la solution actuelle qui ne fonctionne pas sur les TV.", 
                     "Projet de 3ème année, l'objectif était de faire un de puissance 4 en JavaScript ReactJS avec toutes les règles du jeu classique et quelques nouvelles.",
                     "API qui permet au service du Temps réel d’avoir des statistiques et tri de données sur toutes leurs activités de MADA ou sur une certaine année.",
-                    "Projet ayant pour but d'aider les ACDS de la DGAC dans leurs gestions des zones de vol d'aix en provence"
+                    "Projet ayant pour but d'aider les ACDS de la DGAC dans leurs gestions des zones de vol d'Aix-en-Provence"
                   ]
 
 const titre = [ "Agenda sur console",

@@ -1,6 +1,5 @@
-import React from "react";
 import { Col, Row } from "react-bootstrap";
-import { SiVisualstudiocode, SiPostman, SiAmazonaws, SiDocker, SiFilezilla, SiGitlab, SiOvh, SiGit, SiPortainer  } from "react-icons/si";
+import { SiVisualstudiocode, SiPostman, SiAmazonaws, SiDocker, SiFilezilla, SiGitlab, SiOvh, SiGit, SiPortainer, SiVisualstudio  } from "react-icons/si";
 
 function Outils() {
   return (
@@ -9,6 +8,11 @@ function Outils() {
         <Col xs={4} md={2} className="tech-icons">
             <SiVisualstudiocode />
             <h4>VS Code</h4>
+        </Col>
+
+        <Col xs={4} md={2} className="tech-icons">
+            <SiVisualstudio />
+            <h4>Visual Studio</h4>
         </Col>
 
         <Col xs={4} md={2} className="tech-icons">

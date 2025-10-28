@@ -1,7 +1,7 @@
 import React from "react";
 import { Col, Row } from "react-bootstrap";
 import { CgCPlusPlus } from "react-icons/cg";
-import { DiJavascript1, DiReact, DiMongodb, DiPython, DiJava, DiPhp, DiAngularSimple, DiLinux} from "react-icons/di";
+import { DiJavascript1, DiReact, DiMongodb, DiPython, DiJava, DiPhp, DiAngularSimple, DiLinux, DiDotnet} from "react-icons/di";
 import { SiMysql } from "react-icons/si";
 
 function Techno() {
@@ -51,6 +51,11 @@ function Techno() {
         <Col xs={4} md={2} className="tech-icons">
             <DiJava />
             <h4>Java</h4>
+        </Col>
+
+        <Col xs={4} md={2} className="tech-icons">
+            <DiDotnet />
+            <h4>Dotnet</h4>
         </Col>
 
         <Col xs={4} md={2} className="tech-icons">
