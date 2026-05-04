@@ -4,7 +4,7 @@ import Button from "react-bootstrap/Button";
 import { BsGithub,BsLink } from "react-icons/bs";
 
 function Dev(props) {
-    const { img, titre, description, lien,lien2 } = props;
+    const { img, titre, description, lien, lien2, techStack } = props;
 
     return (
         <Card className="project-card-view">
@@ -13,7 +13,12 @@ function Dev(props) {
                 <Card.Title>{titre}</Card.Title>
                 <Card.Text style={{ textAlign: "justify" }}>
                     {description}
-                </Card.Text > 
+                </Card.Text >
+                {techStack && (
+                    <Card.Text>
+                        <small className="purple">{techStack}</small>
+                    </Card.Text>
+                )}
                 {lien !== 0 && (
                     <Button variant="primary" href={lien} target="_blank" style={{marginRight:"5px"}}>
                         <BsGithub /> &nbsp;

@@ -16,17 +16,15 @@ function Main() {
             </h1>
             {/*1er Paragraphe */}
             <p className="home-about-body">
-                Actuellement alternant chez la <b className="purple">Direction générale de l'aviation civile </b> en tant que développeur web,
-                je suis étudiant de 5ème année en informatique à Ynov.
-              <br />
-                Mes intérêts dans le domaine se portent sur le <b className="purple">développement web</b> et dans la <b className="purple">création de logiciels</b>.
+                Je suis développeur <b className="purple">Full Stack en alternance</b>, passionné par l'innovation et la transformation digitale.
               <br />
               <br />
-
-              {/*2ème Paragraphe */}
-                J'ai des connaissances en programmation dans quelques langages <b className="purple"> (C++, JavaScript, Java, PHP...) </b> {/* Compétences en programmation */}
+                J'ai des connaissances en programmation dans des langages tels que <b className="purple">JavaScript/TypeScript, PHP, SQL, C++...</b>
               <br />
-                J'ai des compétences en développement web avec quelques frameworks et bibliothèques <b className="purple"> (React, Angular, Material UI, Express...)</b> {/* Compétences en développement web */}
+                Mes intérêts en informatique se portent sur le <b className="purple">développement web</b> et <b className="purple">logiciel</b>.
+              <br />
+              <br />
+                Dès que possible, je m'efforce de rendre chaque application adaptable et facilement reprennable par un autre développeur.
               <br />
             </p>
             

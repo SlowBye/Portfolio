@@ -1,5 +1,5 @@
 import { Col, Row } from "react-bootstrap";
-import { SiVisualstudiocode, SiPostman, SiAmazonaws, SiDocker, SiFilezilla, SiGitlab, SiOvh, SiGit, SiPortainer, SiVisualstudio  } from "react-icons/si";
+import { SiVisualstudiocode, SiPostman, SiInsomnia, SiDocker, SiOvh, SiVisualstudio, SiVercel } from "react-icons/si";
 
 function Outils() {
   return (
@@ -11,18 +11,18 @@ function Outils() {
         </Col>
 
         <Col xs={4} md={2} className="tech-icons">
-            <SiVisualstudio />
-            <h4>Visual Studio</h4>
-        </Col>
-
-        <Col xs={4} md={2} className="tech-icons">
             <SiPostman />
             <h4>Postman</h4>
         </Col>
 
         <Col xs={4} md={2} className="tech-icons">
-            <SiAmazonaws />
-            <h4>AWS</h4>
+            <SiInsomnia />
+            <h4>Insomnia</h4>
+        </Col>
+
+        <Col xs={4} md={2} className="tech-icons">
+            <SiVisualstudio />
+            <h4>Visual Studio</h4>
         </Col>
 
         <Col xs={4} md={2} className="tech-icons">
@@ -31,28 +31,13 @@ function Outils() {
         </Col>
 
         <Col xs={4} md={2} className="tech-icons">
-            <SiFilezilla />
-            <h4>Filezilla</h4>
-        </Col>
-
-        <Col xs={4} md={2} className="tech-icons">
-            <SiGitlab />
-            <h4>Gitlab</h4>
-        </Col>
-
-        <Col xs={4} md={2} className="tech-icons">
-            <SiGit />
-            <h4>Git</h4>
-        </Col>
-
-        <Col xs={4} md={2} className="tech-icons">
             <SiDocker />
             <h4>Docker</h4>
         </Col>
 
         <Col xs={4} md={2} className="tech-icons">
-            <SiPortainer />
-            <h4>Portainer</h4>
+            <SiVercel />
+            <h4>Vercel</h4>
         </Col>
 
     </Row>
