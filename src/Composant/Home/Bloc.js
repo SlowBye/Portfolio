@@ -1,6 +1,6 @@
 import React from "react";
 import { Container, Row, Col } from "react-bootstrap"; // Importation des composants de Bootstrap React
-import myImg from "../../Items/Image1.jpg" //Importation de l'image de l'avatar
+import myImg from "../../Items/Image1.jpg"
 import Image from 'react-bootstrap/Image'; 
 
 function Main() {
@@ -24,7 +24,7 @@ function Main() {
                 Mes intérêts en informatique se portent sur le <b className="purple">développement web</b> et <b className="purple">logiciel</b>.
               <br />
               <br />
-                Dès que possible, je m'efforce de rendre chaque application adaptable et facilement reprennable par un autre développeur.
+                Dès que possible, je m'efforce de concevoir chaque application adaptable afin d'en faciliter la reprise par d'autres développeurs.
               <br />
             </p>
             
