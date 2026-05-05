@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/Portfolio/static/css/main.6f3fc5e0.css",
-    "main.js": "/Portfolio/static/js/main.06f52321.js",
+    "main.js": "/Portfolio/static/js/main.3dfe372b.js",
     "static/js/787.7da95b79.chunk.js": "/Portfolio/static/js/787.7da95b79.chunk.js",
+    "static/media/Image1.jpg": "/Portfolio/static/media/Image1.ca53eb26918355cb86e2.jpg",
     "static/media/ExoYes.png": "/Portfolio/static/media/ExoYes.91b92a2e2318ef8bf1eb.png",
     "static/media/RPOwer.png": "/Portfolio/static/media/RPOwer.01163116c66b3c831e94.png",
     "static/media/MADA.png": "/Portfolio/static/media/MADA.a49140c069994bad9860.png",
     "static/media/CV.pdf": "/Portfolio/static/media/CV.1f1d5263a314f4258432.pdf",
     "static/media/Gestion_casques.png": "/Portfolio/static/media/Gestion_casques.2e8fc4b20145147433c6.png",
-    "static/media/Image1.jpg": "/Portfolio/static/media/Image1.996c29498a16a6ec9b4d.jpg",
     "static/media/Aixpert_ACDS.png": "/Portfolio/static/media/Aixpert_ACDS.381830c7f88dafdcc280.png",
     "static/media/Clavier.svg": "/Portfolio/static/media/Clavier.c8c89993bfcf32ba953ae1033640cb63.svg",
     "static/media/home-bg.jpg": "/Portfolio/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
@@ -18,11 +18,11 @@
     "index.html": "/Portfolio/index.html",
     "static/media/PT.svg": "/Portfolio/static/media/PT.72d83d1355ab490892daa58e5c12ec5b.svg",
     "main.6f3fc5e0.css.map": "/Portfolio/static/css/main.6f3fc5e0.css.map",
-    "main.06f52321.js.map": "/Portfolio/static/js/main.06f52321.js.map",
+    "main.3dfe372b.js.map": "/Portfolio/static/js/main.3dfe372b.js.map",
     "787.7da95b79.chunk.js.map": "/Portfolio/static/js/787.7da95b79.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.6f3fc5e0.css",
-    "static/js/main.06f52321.js"
+    "static/js/main.3dfe372b.js"
   ]
 }
